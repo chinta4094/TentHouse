@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17-Mar-2021, 8:27:16 pm
+    Author     : Acer
+*/
+
+            body
+            {
+                  
+            }
+            .container{
+                background-image: url("img/signupcar1.jpg"); 
+                background-size: cover;
+                height: 700px;
+                margin: 0px 0px 20px 0px; 
+                overflow:hidden;
+                text-align: center;
+                font-family: cursive;
+                color: white;
+            }
+            .heading3{
+                width: 350px;
+                height: 220px;
+                padding-left: 80px;
+            }
+            .top{
+                float: left;
+            }
+            .heading1{
+                float: left;
+                
+            }
+            .heading2{
+                padding: 4px;
+                color: white;
+                font-size: 17px;
+            }
+            .heading2:hover{
+                border-bottom: 3px solid rgba(23,160,120,0.8);
+                margin-left: 10px;
+            }
+            
+            
